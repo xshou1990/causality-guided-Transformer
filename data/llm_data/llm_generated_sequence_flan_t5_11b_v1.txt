@@ -1,0 +1,243 @@
+conflict, theft, massacre, civil_disorder, regime_change, looting, suicide, economic_crisis, infectious_disease
+conflict, regime_change, coup_d'état, civil_disorder, social_issue
+conflict, war, regime_change, coup_d'état, looting, economic_crisis, mass_murder, riot, civil_disorder
+conflict, riot, regime_change, coup_d'état, disease_outbreak, risk_factor, homicide, social_issue, economic_crisis
+conflict, riot, regime_change, coup_d'état, economic_crisis, social_issue, civil_disorder
+theft, crime
+theft, crime, conflict, civil_disorder, social_issue, riot, risk_factor, economic_crisis, looting
+theft, crime, conflict, epidemic
+theft, crime, statutory_law
+theft, crime, conflict, regime_change, looting, disaster, civil_disorder, risk_factor
+massacre, homicide, suicide, epidemic, disease_outbreak, conflict, risk_factor
+massacre, suicide, epidemic, social_issue, riot, conflict, risk_factor, homicide
+massacre, riot, civil_disorder, regime_change, coup_d'état, looting, war, crime, homicide, social_issue
+massacre, looting, economic_crisis, civil_disorder, coup_d'état, regime_change, social_issue, conflict, epidemic, crime
+massacre, suicide, homicide
+mass_shooting, school_shooting, civil_disorder, riot, social_issue, risk_factor, regime_change, conflict
+mass_shooting, suicide, social_issue
+mass_shooting, statutory_law, impeachment
+mass_shooting, mass_murder, school_shooting, social_issue, protest, riot, civil_disorder, regime_change
+mass_shooting, suicide, risk_factor, school_shooting, civil_disorder
+aviation_accident, aircraft_crash, statutory_law, civil_disorder, riot, social_issue, conflict, risk_factor, theft
+aviation_accident, aircraft_crash
+aviation_accident, aircraft_crash, risk_factor
+aviation_accident, aircraft_crash, disaster
+earthquake, tsunami, conflict, regime_change, suicide, disease_outbreak, epidemic, economic_crisis, homicide, looting
+earthquake, tsunami, conflict, looting, mass_murder, epidemic, disaster
+earthquake, tsunami, conflict, homicide, epidemic
+earthquake, tsunami, disaster, looting, conflict
+earthquake, tsunami, disaster, looting, epidemic, regime_change, homicide, suicide, conflict
+economic_crisis, social_issue, civil_disorder, riot, regime_change
+economic_crisis, social_issue, demonstration, regime_change, coup_d'état
+economic_crisis, shortage, looting, civil_disorder
+economic_crisis, social_issue
+economic_crisis, protest, regime_change, coup_d'état, civil_disorder
+aircraft_crash, homicide, risk_factor, suicide
+aircraft_crash, risk_factor, suicide, homicide, crime, social_issue, conflict, epidemic
+aircraft_crash, looting, civil_disorder, riot, regime_change, statutory_law
+aircraft_crash, mass_murder, riot, regime_change, looting, social_issue
+aircraft_crash, statutory_law, civil_disorder
+statutory_law, impeachment, civil_disorder, regime_change, coup_d'état
+statutory_law, fraud, scandal, impeachment, regime_change, coup_d'état, civil_disorder, conflict, social_issue
+statutory_law, impeachment
+statutory_law, impeachment, regime_change, coup_d'état
+impeachment, regime_change, coup_d'état, statutory_law
+impeachment, statutory_law, regime_change, coup_d'état, civil_disorder
+impeachment, statutory_law, regime_change, coup_d'état, riot, civil_disorder, social_issue, risk_factor, conflict
+impeachment, regime_change, coup_d'état, conflict, civil_disorder, war, risk_factor, social_issue
+impeachment, regime_change, coup_d'état, civil_disorder, riot
+infectious_disease, epidemic, homicide, risk_factor
+infectious_disease, epidemic, social_issue, protest, riot, regime_change, risk_factor
+infectious_disease, epidemic, homicide, risk_factor, social_issue
+infectious_disease, social_issue, epidemic, civil_disorder, conflict, riot, regime_change, risk_factor, economic_crisis
+infectious_disease, epidemic, disease_outbreak, social_issue, conflict, risk_factor, economic_crisis, civil_disorder
+fraud, theft, civil_disorder, riot, economic_crisis
+fraud, risk_factor, scandal, work_accident, social_issue, conflict
+fraud, theft, crime
+fraud, statutory_law, impeachment
+fraud, civil_disorder, scandal
+protest, regime_change, coup_d'état, civil_disorder, looting, conflict
+protest, regime_change, coup_d'état, civil_disorder, social_issue, risk_factor, conflict
+protest, regime_change, coup_d'état, civil_disorder, social_issue, economic_crisis, conflict
+protest, regime_change, coup_d'état, civil_disorder, conflict, social_issue, economic_crisis, riot
+protest, regime_change, coup_d'état, civil_disorder, looting, disaster, suicide
+arson, explosion, civil_disorder, looting, mass_shooting, riot, regime_change, crime, war
+arson, explosion, mass_murder, crime
+arson, disaster, looting, riot, civil_disorder, conflict, social_issue, regime_change, protest
+arson, explosion, risk_factor, work_accident, hazard, disaster, looting
+arson, social_issue, civil_disorder, riot, statutory_law
+civil_disorder, riot, looting, regime_change, coup_d'état, crime, conflict, social_issue, war, risk_factor
+civil_disorder, riot, regime_change, coup_d'état, looting, statutory_law, demonstration, protest
+civil_disorder, regime_change, coup_d'état, riot, economic_crisis, social_issue, demonstration, protest, looting, conflict
+civil_disorder, riot, looting, regime_change
+civil_disorder, regime_change
+school_shooting, civil_disorder, mass_shooting, riot
+school_shooting, civil_disorder, riot, social_issue
+school_shooting, social_issue, protest
+school_shooting, disaster, civil_disorder, looting, riot
+school_shooting, mass_murder, civil_disorder, riot, regime_change, social_issue
+social_issue, conflict, risk_factor
+social_issue, protest, regime_change, coup_d'état, civil_disorder
+social_issue, risk_factor, work_accident, scandal, economic_crisis
+social_issue, risk_factor, school_shooting, mass_shooting, suicide, epidemic, conflict, civil_disorder, economic_crisis
+social_issue, risk_factor, work_accident, scandal, conflict, economic_crisis, regime_change
+natural_disaster, looting, theft, conflict, civil_disorder, massacre, regime_change, risk_factor, social_issue
+natural_disaster, looting, civil_disorder, regime_change, coup_d'état, riot, economic_crisis, social_issue, conflict
+natural_disaster, looting, epidemic, civil_disorder, regime_change, risk_factor, social_issue, war
+natural_disaster, looting, theft, riot, conflict, civil_disorder, statutory_law
+natural_disaster, looting
+risk_factor, work_accident, suicide
+risk_factor, hazard, disaster, looting, riot
+risk_factor, work_accident, suicide, economic_crisis
+risk_factor, work_accident
+risk_factor, work_accident, suicide, homicide, social_issue
+work_accident, risk_factor, statutory_law, civil_disorder, riot, social_issue, regime_change
+work_accident, suicide, homicide, risk_factor
+work_accident, risk_factor, social_issue, scandal, regime_change, conflict, economic_crisis
+work_accident, risk_factor, social_issue, conflict, riot, civil_disorder, regime_change
+work_accident, statutory_law, social_issue, scandal, risk_factor, protest, regime_change, conflict, riot, economic_crisis
+scandal, impeachment, regime_change, coup_d'état, civil_disorder
+scandal, impeachment, regime_change, coup_d'état, civil_disorder, protest, risk_factor
+scandal, impeachment, regime_change
+scandal, regime_change, coup_d'état, impeachment, war, social_issue, civil_disorder
+bomb_attack, explosion, looting, riot, civil_disorder
+bomb_attack, explosion, looting, civil_disorder, conflict, theft, mass_shooting
+bomb_attack, social_issue, riot, regime_change, statutory_law, conflict
+bomb_attack, explosion, looting, crime, statutory_law
+bomb_attack, explosion, murder, mass_murder, hazard, disaster
+shortage, economic_crisis
+shortage, conflict, civil_disorder, theft
+shortage, economic_crisis, riot
+shortage, civil_disorder, looting, riot, regime_change
+shortage, civil_disorder, riot, regime_change, protest, coup_d'état
+accident, risk_factor, disaster, hazard, social_issue, conflict, theft, looting
+accident, risk_factor, disaster, mass_shooting, epidemic
+accident, risk_factor, hazard, disaster, conflict, social_issue, protest, civil_disorder, crime, regime_change
+accident, hazard, disaster, risk_factor, conflict, protest, social_issue, homicide, riot
+accident, risk_factor, social_issue, scandal, conflict, economic_crisis
+tsunami, disaster, risk_factor, hazard, disease_outbreak, epidemic
+tsunami, looting
+tsunami, disaster, risk_factor, earthquake
+tsunami, disaster
+tsunami, disaster, homicide, suicide, looting, crime, epidemic, conflict, regime_change, riot
+procession, hazard
+procession, hazard, disaster, coup_d'état, looting, regime_change
+procession, hazard, disaster, risk_factor
+procession, arson, disaster, hazard, accident
+procession, homicide, suicide
+hazard, disaster, looting, riot, civil_disorder
+hazard, disaster, risk_factor, tsunami, conflict, civil_disorder, epidemic, regime_change, disease_outbreak, social_issue
+hazard, disaster, looting, theft, conflict, massacre, riot, regime_change, social_issue, risk_factor
+hazard, disaster, risk_factor, social_issue
+hazard, disaster, looting, theft, conflict
+disaster, looting, theft, conflict, epidemic, riot, civil_disorder, regime_change, risk_factor, social_issue
+disaster, looting, theft, civil_disorder, conflict, massacre
+disaster, looting, riot, civil_disorder, regime_change, homicide
+disaster, looting, civil_disorder, riot, regime_change
+disaster, looting, theft, crime
+coup_d'état, regime_change, economic_crisis, riot, civil_disorder, social_issue, conflict
+coup_d'état, regime_change, conflict, war, looting, financial_crisis, epidemic, civil_disorder
+coup_d'état, regime_change, conflict
+coup_d'état, regime_change, looting, economic_crisis, civil_disorder, risk_factor, epidemic, social_issue, disease_outbreak
+coup_d'état, regime_change, civil_disorder, riot, demonstration, conflict, social_issue, economic_crisis
+attack, war, massacre, civil_disorder, looting
+attack, mass_murder, riot, civil_disorder, war, regime_change
+attack, war, conflict, homicide, mass_murder, suicide
+attack, war, looting, massacre, epidemic, conflict, civil_disorder, regime_change, protest
+attack, conflict, looting, massacre
+armed_conflict, war, mass_murder, regime_change, epidemic, riot, looting, civil_disorder, social_issue, crime
+armed_conflict, war, homicide, mass_murder, epidemic, suicide, disease_outbreak
+armed_conflict, war, mass_murder, epidemic
+armed_conflict, war, mass_murder, regime_change, civil_disorder, infectious_disease
+armed_conflict, conflict, war, mass_murder, regime_change, coup_d'état, riot
+emerging_communicable_disease, epidemic, mass_murder, regime_change, civil_disorder, war
+emerging_communicable_disease, epidemic, disease_outbreak, infectious_disease, social_issue, conflict, risk_factor, regime_change
+emerging_communicable_disease, epidemic
+emerging_communicable_disease, disease_outbreak, epidemic, social_issue, risk_factor, civil_disorder, conflict
+mass_murder, suicide, social_issue
+mass_murder, riot, regime_change
+mass_murder, mass_shooting, suicide
+mass_murder, suicide
+mass_murder, suicide, homicide, crime
+war, regime_change, civil_disorder, economic_crisis, riot, disaster, looting
+war, regime_change, looting, epidemic, civil_disorder, social_issue, riot, homicide, risk_factor
+war, regime_change, economic_crisis, civil_disorder, looting, homicide, epidemic, disease_outbreak, mass_murder
+war, regime_change, coup_d'état, looting, suicide, epidemic, social_issue, risk_factor, civil_disorder, economic_crisis
+war, regime_change, looting, infectious_disease
+impeachment_in_the_United_States, statutory_law, impeachment
+impeachment_in_the_United_States, riot, regime_change, coup_d'état, conflict
+impeachment_in_the_United_States, statutory_law, impeachment, fraud, regime_change
+impeachment_in_the_United_States, riot, regime_change
+impeachment_in_the_United_States, statutory_law, fraud, scandal, civil_disorder, regime_change
+riot, looting, civil_disorder, homicide, regime_change
+riot, looting, regime_change
+riot, regime_change, coup_d'état, civil_disorder, looting, conflict, financial_crisis, theft
+riot, regime_change, coup_d'état, statutory_law, civil_disorder
+riot, looting, epidemic, regime_change, civil_disorder, war, economic_crisis
+demonstration, protest, regime_change, coup_d'état, civil_disorder, riot, conflict, social_issue
+demonstration, regime_change, coup_d'état, looting, civil_disorder
+demonstration, regime_change, coup_d'état, crime, war, economic_crisis
+demonstration, protest, regime_change, statutory_law, coup_d'état
+demonstration, regime_change, coup_d'état, civil_disorder, conflict, riot, looting
+crime, statutory_law
+crime, statutory_law, impeachment, regime_change
+crime, statutory_law, impeachment, regime_change, coup_d'état, homicide, risk_factor
+crime, statutory_law, impeachment, regime_change, conflict, homicide, social_issue, civil_disorder
+crime, statutory_law, impeachment, regime_change, coup_d'état, civil_disorder, conflict, protest, risk_factor
+regime_change, conflict, financial_crisis, looting, riot, civil_disorder, crime, risk_factor, social_issue
+regime_change, coup_d'état, civil_disorder
+regime_change, coup_d'état, civil_disorder, looting, epidemic, disease_outbreak
+regime_change, civil_disorder, coup_d'état, conflict, economic_crisis, looting, epidemic, risk_factor
+regime_change, civil_disorder, economic_crisis, riot, looting, coup_d'état, conflict, statutory_law
+volcanic_eruption, earthquake, tsunami, disease_outbreak, civil_disorder, looting
+volcanic_eruption, explosion, tsunami, energy_crisis, economic_crisis, social_issue
+volcanic_eruption, earthquake
+volcanic_eruption, earthquake, tsunami, conflict, disaster, looting, homicide
+volcanic_eruption, tsunami, earthquake, disaster
+murder, statutory_law
+murder, homicide, statutory_law
+murder, homicide, suicide
+explosion, disaster, looting, riot, civil_disorder, regime_change, social_issue
+explosion, looting, homicide
+explosion, looting, riot, civil_disorder, crime, regime_change
+explosion, looting, riot, civil_disorder, regime_change, financial_crisis, homicide, risk_factor, social_issue, conflict
+explosion, disaster, looting, riot, civil_disorder, mass_murder, regime_change, coup_d'état
+financial_crisis, economic_crisis
+financial_crisis, statutory_law, civil_disorder, riot, regime_change, social_issue, risk_factor, coup_d'état, conflict
+financial_crisis, economic_crisis, social_issue, civil_disorder, riot, regime_change, coup_d'état
+financial_crisis, economic_crisis, social_issue, riot, statutory_law, regime_change, civil_disorder
+financial_crisis, social_issue, civil_disorder, riot, regime_change, coup_d'état, risk_factor, conflict, looting
+looting, theft, crime, riot, civil_disorder, disaster, economic_crisis, social_issue, conflict
+looting, theft, conflict, massacre, war, economic_crisis, crime, regime_change
+looting, theft, crime, conflict
+looting, theft
+looting, theft, civil_disorder, riot, financial_crisis, crime, conflict, regime_change, social_issue
+suicide, homicide, crime
+suicide, homicide, crime, risk_factor
+suicide, homicide, crime, statutory_law, impeachment
+suicide, homicide, crime, risk_factor, social_issue
+suicide, homicide
+disease_outbreak, epidemic, homicide
+disease_outbreak, epidemic, homicide, conflict, risk_factor
+disease_outbreak, epidemic
+disease_outbreak, epidemic, infectious_disease
+disease_outbreak, epidemic, homicide, risk_factor, civil_disorder, social_issue
+epidemic, disease_outbreak, looting, riot, regime_change
+epidemic, infectious_disease, disease_outbreak, risk_factor
+epidemic, risk_factor, work_accident, social_issue, disaster
+epidemic, social_issue, conflict, regime_change, civil_disorder, protest
+epidemic, homicide, crime
+homicide, crime, civil_disorder, social_issue, riot, conflict, regime_change, risk_factor
+homicide, crime
+homicide, statutory_law, impeachment, regime_change, coup_d'état, crime, conflict, social_issue
+homicide, crime, suicide, statutory_law
+energy_crisis, shortage, economic_crisis, civil_disorder, protest
+energy_crisis, shortage, economic_crisis, social_issue, civil_disorder, riot, regime_change, risk_factor
+energy_crisis, shortage, looting, epidemic, regime_change, civil_disorder, coup_d'état, riot, social_issue
+energy_crisis, shortage, economic_crisis
+energy_crisis, shortage, civil_disorder, riot
+industrial_disaster, looting, riot, civil_disorder
+industrial_disaster, looting, riot, civil_disorder, coup_d'état, regime_change
+industrial_disaster, looting, riot, regime_change, coup_d'état, economic_crisis, suicide, disease_outbreak, risk_factor, civil_disorder
+industrial_disaster, looting, riot, epidemic, civil_disorder, regime_change, homicide, energy_crisis, war, risk_factor
+industrial_disaster, looting, financial_crisis, riot, civil_disorder, regime_change
