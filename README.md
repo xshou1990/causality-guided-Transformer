@@ -1,6 +1,6 @@
 # Pairwise Causality Guided Transformers for Event Sequences
 
-Source code for Pairwise Causality Guided Transformers for Event Sequences
+Source code for Pairwise Causality Guided Transformers for Event Sequences NeurIPS 23
 
 # Run the code for  Pairwise Causality Guided Transformers for Event Sequences
 
